@@ -185,9 +185,9 @@ const Design3 = ({ attendeeData, eventData }) => {
         {/* Main Content */}
         <div className="flex-1 flex flex-col justify-center gap-1.5 sm:gap-2.5 md:gap-3.5">
           <div className="mb-2 sm:mb-3 md:mb-4">
-            <h1 className="text-2xl sm:text-4xl md:text-5xl text-black leading-none -mb-1 sm:-mb-2" style={{fontFamily: 'Dancing Script, cursive', fontWeight: '600'}}>Senior</h1>
-            <h2 className="text-2xl sm:text-4xl md:text-5xl font-black leading-none -mb-0.5 sm:-mb-1" style={{color: '#4F46E5'}}>Send Off</h2>
-            <h2 className="text-2xl sm:text-4xl md:text-5xl font-black leading-none mb-1 sm:mb-2 md:mb-3" style={{color: '#4F46E5'}}>Dinner</h2>
+            <h1 className="text-2xl sm:text-4xl md:text-5xl text-black leading-none -mb-1 sm:-mb-2" style={{fontFamily: 'Dancing Script, cursive', fontWeight: '600'}}>Computer </h1>
+            <h2 className="text-2xl sm:text-4xl md:text-5xl font-black leading-none -mb-0.5 sm:-mb-1" style={{color: '#4F46E5'}}>Science</h2>
+            <h2 className="text-2xl sm:text-4xl md:text-5xl font-black leading-none mb-1 sm:mb-2 md:mb-3" style={{color: '#4F46E5'}}>Gala</h2>
             <div className="inline-block bg-gradient-to-r from-cyan-500 to-indigo-500 text-white px-2 sm:px-3 md:px-4 py-0.5 sm:py-1 md:py-1.5 rounded-full shadow-lg">
               <p className="font-mono font-bold text-[7px] sm:text-[9px] md:text-sm">The Final Commit.</p>
             </div>
