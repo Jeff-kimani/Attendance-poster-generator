@@ -173,7 +173,7 @@ const Design3 = ({ attendeeData, eventData }) => {
         }}
       >
         {/* Top Section — Logo + PRESENTS */}
-        <div className="flex justify-between items-start mt-7 mb-1.5 sm:mb-2 md:mb-3">
+        <div className="flex justify-between items-start mt: 5 mb-1.5 sm:mb-2 md:mb-3">
           <div className="text-left">
             {/* Logo slightly smaller */}
             <img src={logo} alt="Logo" className="h-7 sm:h-10 md:h-14 w-auto mb-1 sm:mb-1 md:mb-1.5" />
